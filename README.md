@@ -1,4 +1,4 @@
-# Human Light Mode - VoiceLoop HR Platform
+- VoiceLoop HR Platform
 
 A modern, AI-powered HR management platform with integrated voice assistant capabilities, built with React, TypeScript, and Tailwind CSS.
 
